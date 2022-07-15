@@ -768,6 +768,28 @@
             "key_samsung_double_tap_to_wake": true
         }
     },
+	{
+        "match_property": "vendor_fp",
+        "match_value": "samsung/b0s*",
+        "device_name": "Samsung Galaxy S22 Ultra (Exynos)",
+
+        "maintainer": {
+            "name": "jgudec"
+        },
+        "community": {
+            "telegram": "https://t.me/+Ehf3IgzJw0k0NmE8"
+        },
+        "preferences": {
+            "key_misc_linear_brightness": true,
+            "key_misc_rounded_corners": "14",
+            "key_misc_display_fps": "0",
+			"key_samsung_alternate_audio_policy": true,
+            "key_samsung_high_brightness": true,
+            "key_samsung_extra_sensors": true,
+            "key_samsung_camera_ids": true,
+            "key_samsung_double_tap_to_wake": true
+        }
+    },
     {
         "match_property": "vendor_fp",
         "match_value": "motorola/liber.*",
