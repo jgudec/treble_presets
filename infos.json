@@ -1,850 +1,815 @@
 [
-    {
-        "match_property": "vendor_fp",
-        "match_value": "realme/RMX1931.*",
-        "device_name": "Realme X2 Pro",
-
-        "maintainer": {
-            "name": "phhusson",
-            "telegram": "https://t.me/phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_mediaprofile": true,
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_rounded_corners": "12"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "vsmart/V620A_open.*",
-        "device_name": "Vsmart Live",
-
-        "maintainer": {
-            "name": "Al Jo"
-        },
-        "community": {
-            "telegram": "https://t.me/vsmartvietnam"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "12"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "xiaomi/daisy.*",
-        "device_name": "Xiaomi Mi A2 Lite",
-
-        "maintainer": {
-            "name": "Victor Bo"
-        },
-        "community": {
-            "telegram": "https://t.me/phhdaisy"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Xiaomi/pine/.*",
-        "device_name": "Xiaomi Redmi 7A",
-        "maintainer": {
-            "name": "Khushraj Rathod"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "5",
-            "key_misc_camera_timestamp": "1"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/a20.*",
-        "device_name": "Samsung Galaxy A20",
-
-        "maintainer": {
-            "name": "TBM13",
-            "telegram": "https://t.me/TBM13"
-        },
-        "community": {
-            "telegram": "https://t.me/Galaxy_A20_official"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "48",
-            "key_samsung_double_tap_to_wake": true,
-            "key_samsung_camera_ids": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/a40.*",
-        "device_name": "Samsung Galaxy A40",
-
-        "maintainer": {
-            "name": "ponces",
-            "telegram": "https://t.me/ponces"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "48",
-            "key_samsung_double_tap_to_wake": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_alternate_audio_policy": true,
-            "key_samsung_esco_transport_unit_size": "16"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/a51n.*",
-        "device_name": "Samsung Galaxy A51",
-
-        "maintainer": {
-            "name": "Yillié"
-        },
-        "community": {
-            "telegram": "https://t.me/samsunga51"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "48",
-            "key_samsung_double_tap_to_wake": true,
-            "key_samsung_camera_ids": "true",
-            "key_samsung_extra_sensors": "true"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/m21n.*",
-        "device_name": "Samsung Galaxy M21",
-
-        "maintainer": {
-            "name": "Yillié"
-        },
-        "community": {
-            "telegram": "https://t.me/SamsungGalaxyM21Discussion"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "48",
-            "key_samsung_double_tap_to_wake": true,
-            "key_samsung_camera_ids": "true",
-            "key_samsung_extra_sensors": "true"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/m31n.*",
-        "device_name": "Samsung Galaxy M31",
-
-        "maintainer": {
-            "name": "vitalitk",
-            "telegram": "https://t.me/vitalitkk"
-        },
-        "community": {
-            "telegram": "https://t.me/galaxym31development"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "50",
-            "key_misc_multi_camera": "true",
-            "key_misc_backlight_scale": "true",
-            "key_misc_headset_devinput": "true",
-            "key_misc_force_a2dp_offload_disable": "true",
-            "key_samsung_double_tap_to_wake": "true",
-            "key_samsung_camera_ids": "true",
-            "key_samsung_extra_sensors": "true",
-            "key_samsung_high_brightness": "true",
-            "key_samsung_esco_transport_unit_size": "16"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/gta3xl.*",
-        "device_name": "Samsung Galaxy Tab A 10.1 (2019)",
-
-        "maintainer": {
-            "name": "Magendanz"
-        },
-        "community": {
-            "telegram": "https://t.me/magendanz"
-        },
-        "preferences": {
-            "key_samsung_high_brightness": true,
-            "key_samsung_double_tap_to_wake": true,
-            "key_samsung_extra_sensors": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/herolte.*",
-        "device_name": "Samsung Galaxy S7",
-
-        "maintainer": {
-            "name": "AnanJaser",
-            "telegram": "https://t.me/Anan1211"
-        },
-        "community": {
-            "telegram": "https://t.me/joinchat/Dhy5dlZOcSQY6mYBhBSKHQ"
-        },
-        "preferences": {
-            "key_misc_force_navbar_off": true,
-            "key_misc_linear_brightness": true,
-            "key_samsung_high_brightness": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/hero2lte.*",
-        "device_name": "Samsung Galaxy S7 edge",
-
-        "maintainer": {
-            "name": "AnanJaser",
-            "telegram": "https://t.me/Anan1211"
-        },
-        "community": {
-            "telegram": "https://t.me/joinchat/Dhy5dlZOcSQY6mYBhBSKHQ"
-        },
-        "preferences": {
-            "key_misc_force_navbar_off": true,
-            "key_misc_linear_brightness": true,
-            "key_samsung_high_brightness": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Xiaomi/cepheus.*",
-        "device_name": "Xiaomi Mi9",
-
-        "maintainer": {
-            "name": "phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "12",
-            "key_qualcomm_alternate_mediaprofile": "true"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Xiaomi/davinci.*",
-        "device_name": "Xiaomi Mi 9T",
-
-        "maintainer": {
-            "name": "Lennert Franssens",
-            "telegram": "https://t.me/lennertfranssens"
-        },
-        "community": {
-            "telegram": "https://t.me/RedmiK20GlobalOfficial"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "4"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "motorola/troika.*",
-        "device_name": "Moto One Action",
-
-        "maintainer": {
-            "name": "phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "asus/.*/ASUS_I01WD.*",
-        "device_name": "Asus Zenfone 6",
-
-        "maintainer": {
-            "name": "phhusson",
-            "telegram": "https://t.me/phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_mediaprofile": true,
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_rounded_corners": "20"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "nubia/NX659J.*",
-        "device_name": "Redmagic 5G",
-
-        "maintainer": {
-            "name": "phhusson",
-            "telegram": "https://t.me/phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_rounded_corners": "16"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "ASUS/X00R.*",
-        "device_name": "Zenfone Lite L1",
-
-        "maintainer": {
-            "name": "Techfanciers",
-            "telegram": "https://t.me/techfanciers"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Unihertz/Titan.*",
-        "device_name": "Unihertz Titan",
-
-        "maintainer": {
-            "name": "phhusson"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "xiaomi/lavender.*",
-        "device_name": "Xiaomi Redmi Note 7",
-
-        "maintainer": {
-            "name": "darkestDark"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-         "key_qualcomm_alternate_mediaprofile": true,
-         "key_qualcomm_alternate_audiopolicy": true,
-         "key_misc_rounded_corners": "6",
-         "key_misc_multi_camera": true,
-         "xiaomi_double_tap_to_wake": true,
-         "key_misc_backlight_scale": true
-        }
-    },
-{
-        "match_property": "vendor_fp",
-        "match_value": "xiaomi/clover.*",
-        "device_name": "Xiaomi Mi Pad 4",
-
-        "maintainer": {
-            "name": "darkestDark"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-         "key_qualcomm_alternate_mediaprofile": true,
-         "key_qualcomm_alternate_audiopolicy": true,
-         "xiaomi_double_tap_to_wake": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "xiaomi/cactus.*",
-        "device_name": "Redmi 6A",
-        "maintainer": {
-            "name": "Myst33d",
-            "telegram": "https://t.me/myst33d"
-        },
-        "community": {
-            "telegram": "https://t.me/Redmi6AOfficial"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Redmi/merlin.*",
-        "device_name": "Redmi Note 9",
-        "maintainer": {
-            "name": "Myst33d",
-            "telegram": "https://t.me/myst33d"
-        },
-        "community": {
-            "telegram": "https://t.me/HelioG85_Unified"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true,
-            "key_misc_force_a2dp_offload_disable": true,
-            "key_misc_backlight_scale": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "kirin970/kirin970*",
-        "device_name": "Huawei Kirin970",
-        "maintainer": {
-            "name": "xiaoleGun",
-            "telegram": "https://t.me/xiaoleGun"
-        },
-        "community": {
-            "telegram": "https://t.me/kirin970"
-        },
-        "preferences": {
-            "key_huawei_no_hwcomposer": true,
-            "key_huawei_fast_charge": 4000
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "HUAWEI/PRA-.*",
-        "device_name": "Huawei P8 Lite 2017",
-        "maintainer": {
-            "name": "DarkJoker360",
-            "telegram": "https://t.me/DarkJoker360dev"
-        },
-        "community": {
-            "telegram": "https://t.me/hi6250group"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "GM/GM9PRO.*",
-        "device_name": "GM 9 Pro",
-
-        "maintainer": {
-            "name": "erdilS",
-            "telegram": "https://t.me/erdilS"
-        },
-        "community": {
-            "telegram": "https://t.me/gm9pro"
-        },
-        "preferences": {
-            "key_misc_force_camera2api_hal3": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Nokia/Phoenix.*",
-        "device_name": "Nokia 8.1",
-
-        "maintainer": {
-            "name": "TechnoStone",
-            "telegram": "https://t.me/TechnoStone"
-        },
-        "community": {
-            "telegram": "https://t.me/NokiaX7"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_mediaprofile": true,
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_headset_devinput": true,
-            "key_misc_force_a2dp_offload_disable": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Nokia/Panda_00WW.*",
-        "device_name": "Nokia 5.1 Plus",
-
-        "maintainer": {
-            "name": "Asim Ranjha",
-            "telegram": "https://t.me/RanjhaG"
-        },
-        "community": {
-            "telegram": "https://t.me/NokiaX5official"
-        },
-        "preferences": {
-            "key_misc_force_a2dp_offload_disable": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "lge/cayman.*",
-        "device_name": "LG Velvet 5G",
-
-        "maintainer": {
-            "name": "dom133"
-        },
-        "community": {
-            "telegram": "https://t.me/velvetcommunity"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "35",
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_force_a2dp_offload_disable": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "realme/RMX194*",
-        "device_name": "Realme C2",
-
-        "maintainer": {
-            "name": "SIDDK",
-            "telegram": "https://t.me/SIDDK"
-        },
-        "community": {
-            "telegram": "https://https://t.me/RealmeC2Community"
-        },
-        "preferences": {
-            "key_misc_rounded_corners": "19",
-            "key_misc_headset_devinput": true,
-            "key_misc_force_camera2api_hal3": true,
-            "key_misc_backlight_scale": true,
-            "key_misc_multi_camera": true,
-            "key_oppo_double_tap_to_wake": true,
-            "key_oppo_ts_game_mode": true,
-            "key_oppo_usb_otg": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "POCO/citrus_*",
-        "device_name": "Poco M3",
-        "maintainer": {
-            "name": "edwining01"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_backlight_scale": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Teracube/Teracube_One*",
-        "device_name": "Teracube One",
-        "maintainer": {
-            "name": "Amy Grace"
-        },
-        "community": {
-            "telegram": "https://t.me/teracube_oss"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true,
-            "key_misc_rounded_corners": 15
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "realme/RMX2020.*",
-        "device_name": "Realme C3",
-        "maintainer": {
-            "name": "Sarthak Roy",
-            "telegram": "https://t.me/sarthakroy2002"
-        },
-        "community": {
-            "telegram": "https://t.me/RealmeC310a"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true,
-            "key_misc_backlight_scale": true,
-            "key_misc_multi_camera": true,
-            "key_oppo_double_tap_to_wake": true,
-            "key_oppo_ts_game_mode": true,
-            "key_oppo_usb_otg": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "realme/RMX2185.*",
-        "device_name": "Realme C11",
-        "maintainer": {
-            "name": "Aryan Sinha",
-            "telegram": "https://t.me/minatiscape"
-        },
-        "community": {
-            "telegram": "https://t.me/Realmec11_official"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true,
-            "key_misc_backlight_scale": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "realme/RMX2189.*",
-        "device_name": "Realme C12",
-        "maintainer": {
-            "name": "HemanthJabalpuri",
-            "telegram": "https://t.me/HemanthJabalpuri"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true,
-            "key_misc_backlight_scale": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "OnePlus/OnePlusNordCE*",
-        "device_name": "Oneplus Nord CE 5G",
-        "maintainer": {
-            "name": "ManuBraibant"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_misc_force_a2dp_offload_disable": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Teracube/Teracube_2e*",
-        "device_name": "Teracube 2e",
-        "maintainer": {
-            "name": "Amy Grace"
-        },
-        "community": {
-            "telegram": "https://t.me/teracube_oss"
-        },
-        "preferences": {
-            "key_misc_headset_devinput": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "motorola/pokerp.*",
-        "device_name": "Moto E6 Plus",
-
-        "maintainer": {
-            "name": "Noone"
-        },
-        "community": {
-            "telegram": "https://t.me/motoe6plusdev"
-        },
-        "preferences": {
-            "key_misc_backlight_scale": true
-        }
-     },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/a9y18*",
-        "device_name": "Samsung Galaxy A9 (2018)",
-        "maintainer": {
-            "name": "James Nguyen",
-            "telegram": "https://t.me/thongass000"
-        },
-        "community": {
-            "telegram": "https://t.me/SamsungA9TestingGroup"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_samsung_esco_transport_unit_size": "16",
-            "key_misc_force_a2dp_offload_disable": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/r8sxx*",
-        "device_name": "Samsung S20 FE 4G (SM-G780F)",
-        "maintainer": {
-            "name": "smxdfx",
-            "telegram": "@smxdfx"
-        },
-        "community": {
-            "telegram": "https://t.me/S20FeModding"
-        },
-        "preferences": {
-            "key_samsung_esco_transport_unit_size": "16",
-            "key_misc_headset_devinput": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "Xiaomi/renoir.*",
-        "device_name": "Xiaomi Mi 11 Lite 5G",
-
-        "maintainer": {
-            "name": "ponces",
-            "telegram": "https://t.me/ponces"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_qualcomm_alternate_mediaprofile": true,
-            "key_qualcomm_alternate_audiopolicy": true,
-            "key_qualcomm_disable_soundvolume_effect": true,
-            "xiaomi_double_tap_to_wake": true,
-            "xiaomi_disable_sunlight_mode": true,
-            "key_misc_backlight_scale": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/o1s*",
-        "device_name": "Samsung Galaxy S21 (exynos)",
-
-        "maintainer": {
-            "name": "haridhayal11"
-        },
-        "community": {
-            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
-        },
-        "preferences": {
-            "key_misc_linear_brightness": true,
-            "key_misc_rounded_corners": "48",
-            "key_misc_display_fps": "0",
-            "key_samsung_high_brightness": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/t2s*",
-        "device_name": "Samsung Galaxy S21+ (exynos)",
-
-        "maintainer": {
-            "name": "haridhayal11"
-        },
-        "community": {
-            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
-        },
-        "preferences": {
-            "key_misc_linear_brightness": true,
-            "key_misc_rounded_corners": "48",
-            "key_misc_display_fps": "0",
-            "key_samsung_high_brightness": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/p3s*",
-        "device_name": "Samsung Galaxy S21 Ultra (exynos)",
-
-        "maintainer": {
-            "name": "haridhayal11"
-        },
-        "community": {
-            "telegram": "https://t.me/+rI4-kXEchqQ1OTQ9"
-        },
-        "preferences": {
-            "key_misc_linear_brightness": true,
-            "key_misc_rounded_corners": "48",
-            "key_misc_display_fps": "0",
-            "key_samsung_high_brightness": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-	{
-        "match_property": "vendor_fp",
-        "match_value": "samsung/r0s*",
-        "device_name": "Samsung Galaxy S22 (Exynos)",
-
-        "maintainer": {
-            "name": "jgudec"
-        },
-        "community": {
-            "telegram": "https://t.me/+Ehf3IgzJw0k0NmE8"
-        },
-        "preferences": {
-            "key_misc_linear_brightness": true,
-            "key_misc_rounded_corners": "24",
-            "key_misc_display_fps": "0",
-			"key_samsung_alternate_audio_policy": true,
-            "key_samsung_high_brightness": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-	{
-        "match_property": "vendor_fp",
-        "match_value": "samsung/b0s*",
-        "device_name": "Samsung Galaxy S22 Ultra (Exynos)",
-
-        "maintainer": {
-            "name": "jgudec"
-        },
-        "community": {
-            "telegram": "https://t.me/+Ehf3IgzJw0k0NmE8"
-        },
-        "preferences": {
-            "key_misc_linear_brightness": true,
-            "key_misc_rounded_corners": "14",
-            "key_misc_display_fps": "0",
-			"key_samsung_alternate_audio_policy": true,
-            "key_samsung_high_brightness": true,
-            "key_samsung_extra_sensors": true,
-            "key_samsung_camera_ids": true,
-            "key_samsung_double_tap_to_wake": true
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "motorola/liber.*",
-        "device_name": "Motorola One Fusion+",
-        "maintainer": {
-            "name": "ksdrar"
-        },
-        "community": {
-            "telegram": "https://t.me/phhtreble"
-        },
-        "preferences": {
-            "key_misc_force_a2dp_offload_disable": true,
-            "key_misc_rounded_corners": "50"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "samsung/m31s.*",
-        "device_name": "Samsung Galaxy M31s",
-
-        "maintainer": {
-            "name": "Rufus IR"
-        },
-        "community": {
-            "telegram": "https://t.me/samsungm31sup/"
-        },
-        "preferences": {
-            "key_misc_multi_camera": "true",
-            "key_misc_linear_brightness": "true",
-            "key_misc_backlight_scale": "true",
-            "key_misc_headset_devinput": "true",
-            "key_misc_force_a2dp_offload_disable": "true",
-            "key_samsung_alternate_audio_policy": "true",
-            "key_samsung_esco_transport_unit_size": "16",
-            "key_samsung_high_brightness": "true",
-            "key_samsung_double_tap_to_wake": "true",
-            "key_samsung_camera_ids": "true",
-            "key_samsung_extra_sensors": "true"
-        }
-    },
-    {
-        "match_property": "vendor_fp",
-        "match_value": "OPPO/CPH2239*",
-        "device_name": "OPPO A54",
-
-        "maintainer": {
-            "name": "Johx22"
-        },
-        "community": {
-            "telegram": "https://t.me/oppoa54discussion/"
-        },
-        "preferences": {
-            "key_misc_multi_camera": true,
-            "key_misc_backlight_scale": true
-        }
-    }
-
+   {
+      "match_property":"vendor_fp",
+      "match_value":"realme/RMX1931.*",
+      "device_name":"Realme X2 Pro",
+      "maintainer":{
+         "name":"phhusson",
+         "telegram":"https://t.me/phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_rounded_corners":"12"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"vsmart/V620A_open.*",
+      "device_name":"Vsmart Live",
+      "maintainer":{
+         "name":"Al Jo"
+      },
+      "community":{
+         "telegram":"https://t.me/vsmartvietnam"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"12"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"xiaomi/daisy.*",
+      "device_name":"Xiaomi Mi A2 Lite",
+      "maintainer":{
+         "name":"Victor Bo"
+      },
+      "community":{
+         "telegram":"https://t.me/phhdaisy"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Xiaomi/pine/.*",
+      "device_name":"Xiaomi Redmi 7A",
+      "maintainer":{
+         "name":"Khushraj Rathod"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"5",
+         "key_misc_camera_timestamp":"1"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/a20.*",
+      "device_name":"Samsung Galaxy A20",
+      "maintainer":{
+         "name":"TBM13",
+         "telegram":"https://t.me/TBM13"
+      },
+      "community":{
+         "telegram":"https://t.me/Galaxy_A20_official"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"48",
+         "key_samsung_double_tap_to_wake":true,
+         "key_samsung_camera_ids":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/a40.*",
+      "device_name":"Samsung Galaxy A40",
+      "maintainer":{
+         "name":"ponces",
+         "telegram":"https://t.me/ponces"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"48",
+         "key_samsung_double_tap_to_wake":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_alternate_audio_policy":true,
+         "key_samsung_esco_transport_unit_size":"16"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/a51n.*",
+      "device_name":"Samsung Galaxy A51",
+      "maintainer":{
+         "name":"Yillié"
+      },
+      "community":{
+         "telegram":"https://t.me/samsunga51"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"48",
+         "key_samsung_double_tap_to_wake":true,
+         "key_samsung_camera_ids":"true",
+         "key_samsung_extra_sensors":"true"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/m21n.*",
+      "device_name":"Samsung Galaxy M21",
+      "maintainer":{
+         "name":"Yillié"
+      },
+      "community":{
+         "telegram":"https://t.me/SamsungGalaxyM21Discussion"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"48",
+         "key_samsung_double_tap_to_wake":true,
+         "key_samsung_camera_ids":"true",
+         "key_samsung_extra_sensors":"true"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/m31n.*",
+      "device_name":"Samsung Galaxy M31",
+      "maintainer":{
+         "name":"vitalitk",
+         "telegram":"https://t.me/vitalitkk"
+      },
+      "community":{
+         "telegram":"https://t.me/galaxym31development"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"50",
+         "key_misc_multi_camera":"true",
+         "key_misc_backlight_scale":"true",
+         "key_misc_headset_devinput":"true",
+         "key_misc_force_a2dp_offload_disable":"true",
+         "key_samsung_double_tap_to_wake":"true",
+         "key_samsung_camera_ids":"true",
+         "key_samsung_extra_sensors":"true",
+         "key_samsung_high_brightness":"true",
+         "key_samsung_esco_transport_unit_size":"16"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/gta3xl.*",
+      "device_name":"Samsung Galaxy Tab A 10.1 (2019)",
+      "maintainer":{
+         "name":"Magendanz"
+      },
+      "community":{
+         "telegram":"https://t.me/magendanz"
+      },
+      "preferences":{
+         "key_samsung_high_brightness":true,
+         "key_samsung_double_tap_to_wake":true,
+         "key_samsung_extra_sensors":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/herolte.*",
+      "device_name":"Samsung Galaxy S7",
+      "maintainer":{
+         "name":"AnanJaser",
+         "telegram":"https://t.me/Anan1211"
+      },
+      "community":{
+         "telegram":"https://t.me/joinchat/Dhy5dlZOcSQY6mYBhBSKHQ"
+      },
+      "preferences":{
+         "key_misc_force_navbar_off":true,
+         "key_misc_linear_brightness":true,
+         "key_samsung_high_brightness":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/hero2lte.*",
+      "device_name":"Samsung Galaxy S7 edge",
+      "maintainer":{
+         "name":"AnanJaser",
+         "telegram":"https://t.me/Anan1211"
+      },
+      "community":{
+         "telegram":"https://t.me/joinchat/Dhy5dlZOcSQY6mYBhBSKHQ"
+      },
+      "preferences":{
+         "key_misc_force_navbar_off":true,
+         "key_misc_linear_brightness":true,
+         "key_samsung_high_brightness":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Xiaomi/cepheus.*",
+      "device_name":"Xiaomi Mi9",
+      "maintainer":{
+         "name":"phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"12",
+         "key_qualcomm_alternate_mediaprofile":"true"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Xiaomi/davinci.*",
+      "device_name":"Xiaomi Mi 9T",
+      "maintainer":{
+         "name":"Lennert Franssens",
+         "telegram":"https://t.me/lennertfranssens"
+      },
+      "community":{
+         "telegram":"https://t.me/RedmiK20GlobalOfficial"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"4"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"motorola/troika.*",
+      "device_name":"Moto One Action",
+      "maintainer":{
+         "name":"phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"asus/.*/ASUS_I01WD.*",
+      "device_name":"Asus Zenfone 6",
+      "maintainer":{
+         "name":"phhusson",
+         "telegram":"https://t.me/phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_rounded_corners":"20"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"nubia/NX659J.*",
+      "device_name":"Redmagic 5G",
+      "maintainer":{
+         "name":"phhusson",
+         "telegram":"https://t.me/phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_rounded_corners":"16"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"ASUS/X00R.*",
+      "device_name":"Zenfone Lite L1",
+      "maintainer":{
+         "name":"Techfanciers",
+         "telegram":"https://t.me/techfanciers"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Unihertz/Titan.*",
+      "device_name":"Unihertz Titan",
+      "maintainer":{
+         "name":"phhusson"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"xiaomi/lavender.*",
+      "device_name":"Xiaomi Redmi Note 7",
+      "maintainer":{
+         "name":"darkestDark"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_rounded_corners":"6",
+         "key_misc_multi_camera":true,
+         "xiaomi_double_tap_to_wake":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"xiaomi/clover.*",
+      "device_name":"Xiaomi Mi Pad 4",
+      "maintainer":{
+         "name":"darkestDark"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "xiaomi_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"xiaomi/cactus.*",
+      "device_name":"Redmi 6A",
+      "maintainer":{
+         "name":"Myst33d",
+         "telegram":"https://t.me/myst33d"
+      },
+      "community":{
+         "telegram":"https://t.me/Redmi6AOfficial"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Redmi/merlin.*",
+      "device_name":"Redmi Note 9",
+      "maintainer":{
+         "name":"Myst33d",
+         "telegram":"https://t.me/myst33d"
+      },
+      "community":{
+         "telegram":"https://t.me/HelioG85_Unified"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true,
+         "key_misc_force_a2dp_offload_disable":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"kirin970/kirin970*",
+      "device_name":"Huawei Kirin970",
+      "maintainer":{
+         "name":"xiaoleGun",
+         "telegram":"https://t.me/xiaoleGun"
+      },
+      "community":{
+         "telegram":"https://t.me/kirin970"
+      },
+      "preferences":{
+         "key_huawei_no_hwcomposer":true,
+         "key_huawei_fast_charge":4000
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"HUAWEI/PRA-.*",
+      "device_name":"Huawei P8 Lite 2017",
+      "maintainer":{
+         "name":"DarkJoker360",
+         "telegram":"https://t.me/DarkJoker360dev"
+      },
+      "community":{
+         "telegram":"https://t.me/hi6250group"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"GM/GM9PRO.*",
+      "device_name":"GM 9 Pro",
+      "maintainer":{
+         "name":"erdilS",
+         "telegram":"https://t.me/erdilS"
+      },
+      "community":{
+         "telegram":"https://t.me/gm9pro"
+      },
+      "preferences":{
+         "key_misc_force_camera2api_hal3":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Nokia/Phoenix.*",
+      "device_name":"Nokia 8.1",
+      "maintainer":{
+         "name":"TechnoStone",
+         "telegram":"https://t.me/TechnoStone"
+      },
+      "community":{
+         "telegram":"https://t.me/NokiaX7"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_headset_devinput":true,
+         "key_misc_force_a2dp_offload_disable":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Nokia/Panda_00WW.*",
+      "device_name":"Nokia 5.1 Plus",
+      "maintainer":{
+         "name":"Asim Ranjha",
+         "telegram":"https://t.me/RanjhaG"
+      },
+      "community":{
+         "telegram":"https://t.me/NokiaX5official"
+      },
+      "preferences":{
+         "key_misc_force_a2dp_offload_disable":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"lge/cayman.*",
+      "device_name":"LG Velvet 5G",
+      "maintainer":{
+         "name":"dom133"
+      },
+      "community":{
+         "telegram":"https://t.me/velvetcommunity"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"35",
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_force_a2dp_offload_disable":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"realme/RMX194*",
+      "device_name":"Realme C2",
+      "maintainer":{
+         "name":"SIDDK",
+         "telegram":"https://t.me/SIDDK"
+      },
+      "community":{
+         "telegram":"https://https://t.me/RealmeC2Community"
+      },
+      "preferences":{
+         "key_misc_rounded_corners":"19",
+         "key_misc_headset_devinput":true,
+         "key_misc_force_camera2api_hal3":true,
+         "key_misc_backlight_scale":true,
+         "key_misc_multi_camera":true,
+         "key_oppo_double_tap_to_wake":true,
+         "key_oppo_ts_game_mode":true,
+         "key_oppo_usb_otg":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"POCO/citrus_*",
+      "device_name":"Poco M3",
+      "maintainer":{
+         "name":"edwining01"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Teracube/Teracube_One*",
+      "device_name":"Teracube One",
+      "maintainer":{
+         "name":"Amy Grace"
+      },
+      "community":{
+         "telegram":"https://t.me/teracube_oss"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true,
+         "key_misc_rounded_corners":15
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"realme/RMX2020.*",
+      "device_name":"Realme C3",
+      "maintainer":{
+         "name":"Sarthak Roy",
+         "telegram":"https://t.me/sarthakroy2002"
+      },
+      "community":{
+         "telegram":"https://t.me/RealmeC310a"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true,
+         "key_misc_backlight_scale":true,
+         "key_misc_multi_camera":true,
+         "key_oppo_double_tap_to_wake":true,
+         "key_oppo_ts_game_mode":true,
+         "key_oppo_usb_otg":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"realme/RMX2185.*",
+      "device_name":"Realme C11",
+      "maintainer":{
+         "name":"Aryan Sinha",
+         "telegram":"https://t.me/minatiscape"
+      },
+      "community":{
+         "telegram":"https://t.me/Realmec11_official"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"realme/RMX2189.*",
+      "device_name":"Realme C12",
+      "maintainer":{
+         "name":"HemanthJabalpuri",
+         "telegram":"https://t.me/HemanthJabalpuri"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"OnePlus/OnePlusNordCE*",
+      "device_name":"Oneplus Nord CE 5G",
+      "maintainer":{
+         "name":"ManuBraibant"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_misc_force_a2dp_offload_disable":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Teracube/Teracube_2e*",
+      "device_name":"Teracube 2e",
+      "maintainer":{
+         "name":"Amy Grace"
+      },
+      "community":{
+         "telegram":"https://t.me/teracube_oss"
+      },
+      "preferences":{
+         "key_misc_headset_devinput":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"motorola/pokerp.*",
+      "device_name":"Moto E6 Plus",
+      "maintainer":{
+         "name":"Noone"
+      },
+      "community":{
+         "telegram":"https://t.me/motoe6plusdev"
+      },
+      "preferences":{
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/a9y18*",
+      "device_name":"Samsung Galaxy A9 (2018)",
+      "maintainer":{
+         "name":"James Nguyen",
+         "telegram":"https://t.me/thongass000"
+      },
+      "community":{
+         "telegram":"https://t.me/SamsungA9TestingGroup"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_samsung_esco_transport_unit_size":"16",
+         "key_misc_force_a2dp_offload_disable":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/r8sxx*",
+      "device_name":"Samsung S20 FE 4G (SM-G780F)",
+      "maintainer":{
+         "name":"smxdfx",
+         "telegram":"@smxdfx"
+      },
+      "community":{
+         "telegram":"https://t.me/S20FeModding"
+      },
+      "preferences":{
+         "key_samsung_esco_transport_unit_size":"16",
+         "key_misc_headset_devinput":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"Xiaomi/renoir.*",
+      "device_name":"Xiaomi Mi 11 Lite 5G",
+      "maintainer":{
+         "name":"ponces",
+         "telegram":"https://t.me/ponces"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_qualcomm_alternate_mediaprofile":true,
+         "key_qualcomm_alternate_audiopolicy":true,
+         "key_qualcomm_disable_soundvolume_effect":true,
+         "xiaomi_double_tap_to_wake":true,
+         "xiaomi_disable_sunlight_mode":true,
+         "key_misc_backlight_scale":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/o1s*",
+      "device_name":"Samsung Galaxy S21 (exynos)",
+      "maintainer":{
+         "name":"haridhayal11"
+      },
+      "community":{
+         "telegram":"https://t.me/+rI4-kXEchqQ1OTQ9"
+      },
+      "preferences":{
+         "key_misc_linear_brightness":true,
+         "key_misc_rounded_corners":"48",
+         "key_misc_display_fps":"0",
+         "key_samsung_high_brightness":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/t2s*",
+      "device_name":"Samsung Galaxy S21+ (exynos)",
+      "maintainer":{
+         "name":"haridhayal11"
+      },
+      "community":{
+         "telegram":"https://t.me/+rI4-kXEchqQ1OTQ9"
+      },
+      "preferences":{
+         "key_misc_linear_brightness":true,
+         "key_misc_rounded_corners":"48",
+         "key_misc_display_fps":"0",
+         "key_samsung_high_brightness":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/p3s*",
+      "device_name":"Samsung Galaxy S21 Ultra (exynos)",
+      "maintainer":{
+         "name":"haridhayal11"
+      },
+      "community":{
+         "telegram":"https://t.me/+rI4-kXEchqQ1OTQ9"
+      },
+      "preferences":{
+         "key_misc_linear_brightness":true,
+         "key_misc_rounded_corners":"48",
+         "key_misc_display_fps":"0",
+         "key_samsung_high_brightness":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/r0s*",
+      "device_name":"Samsung Galaxy S22 (Exynos)",
+      "maintainer":{
+         "name":"jgudec"
+      },
+      "community":{
+         "telegram":"https://t.me/+Ehf3IgzJw0k0NmE8"
+      },
+      "preferences":{
+         "key_misc_linear_brightness":true,
+         "key_misc_rounded_corners":"24",
+         "key_misc_display_fps":"0",
+         "key_samsung_alternate_audio_policy":true,
+         "key_samsung_high_brightness":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/b0s*",
+      "device_name":"Samsung Galaxy S22 Ultra (Exynos)",
+      "maintainer":{
+         "name":"jgudec"
+      },
+      "community":{
+         "telegram":"https://t.me/+Ehf3IgzJw0k0NmE8"
+      },
+      "preferences":{
+         "key_misc_linear_brightness":true,
+         "key_misc_rounded_corners":"14",
+         "key_misc_display_fps":"0",
+         "key_samsung_alternate_audio_policy":true,
+         "key_samsung_high_brightness":true,
+         "key_samsung_extra_sensors":true,
+         "key_samsung_camera_ids":true,
+         "key_samsung_double_tap_to_wake":true
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"motorola/liber.*",
+      "device_name":"Motorola One Fusion+",
+      "maintainer":{
+         "name":"ksdrar"
+      },
+      "community":{
+         "telegram":"https://t.me/phhtreble"
+      },
+      "preferences":{
+         "key_misc_force_a2dp_offload_disable":true,
+         "key_misc_rounded_corners":"50"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"samsung/m31s.*",
+      "device_name":"Samsung Galaxy M31s",
+      "maintainer":{
+         "name":"Rufus IR"
+      },
+      "community":{
+         "telegram":"https://t.me/samsungm31sup/"
+      },
+      "preferences":{
+         "key_misc_multi_camera":"true",
+         "key_misc_linear_brightness":"true",
+         "key_misc_backlight_scale":"true",
+         "key_misc_headset_devinput":"true",
+         "key_misc_force_a2dp_offload_disable":"true",
+         "key_samsung_alternate_audio_policy":"true",
+         "key_samsung_esco_transport_unit_size":"16",
+         "key_samsung_high_brightness":"true",
+         "key_samsung_double_tap_to_wake":"true",
+         "key_samsung_camera_ids":"true",
+         "key_samsung_extra_sensors":"true"
+      }
+   },
+   {
+      "match_property":"vendor_fp",
+      "match_value":"OPPO/CPH2239*",
+      "device_name":"OPPO A54",
+      "maintainer":{
+         "name":"Johx22"
+      },
+      "community":{
+         "telegram":"https://t.me/oppoa54discussion/"
+      },
+      "preferences":{
+         "key_misc_multi_camera":true,
+         "key_misc_backlight_scale":true
+      }
+   }
 ]
